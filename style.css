@@ -1,0 +1,30 @@
+.p2 {color: rgb(247, 243, 2);}
+.p2 {border-color: blueviolet;
+       border-width: 5px;
+    border-style: double;}
+    .p2 {margin-left: 40%;
+    padding-left: 20%;
+}
+.p1 {color: rgb(21, 255, 0);}
+.p1 {border-color: rgb(226, 223, 43);
+       border-width: 5px;
+    border-style:groove;}
+    .p1 {margin-right: 78%;
+    padding-right: 5%;
+}
+.p3 {color: rgb(255, 102, 0);}
+.p3 {border-color: rgb(11, 237, 245);
+       border-width: 5px;
+    border-style:dotted;}
+    .p3 {margin-left: 24%;
+    padding-left: 7%;
+}
+.p4 {color: rgb(255, 0, 0);}
+.p4 {border-color: rgb(226, 43, 43);
+       border-width: 5px;
+    border-style: ridge;}
+    .p4 {margin-right: 60%;
+    padding-right: 20%;
+}
+body {background-color: rgb(11, 78, 122);}
+    
